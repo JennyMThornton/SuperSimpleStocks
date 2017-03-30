@@ -1,0 +1,11 @@
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\bin\Release\stockPriceTest.exe.config
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\bin\Release\stockPriceTest.exe
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\bin\Release\stockPriceTest.pdb
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Release\SuperSimpleStocks.formSimpleStocks.resources
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Release\stockPriceTest.Properties.Resources.resources
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Release\SuperSimpleStocks.csproj.GenerateResource.Cache
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Release\stockPriceTest.exe
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Release\stockPriceTest.pdb
+C:\Users\Jenny\Desktop\SuperSimpleStocks\VisualStudioProject\SuperSimpleStocks\bin\Release\stockPriceTest.exe.config
+C:\Users\Jenny\Desktop\SuperSimpleStocks\VisualStudioProject\SuperSimpleStocks\obj\Release\stockPriceTest.exe
+C:\Users\Jenny\Desktop\SuperSimpleStocks\VisualStudioProject\SuperSimpleStocks\obj\Release\stockPriceTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\SuperSimpleStocks_UnitTests.dll
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\SuperSimpleStocks_UnitTests.pdb
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\stockPriceTest.exe
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\stockPriceTest.pdb
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\obj\Debug\SuperSimpleStocks_UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\obj\Debug\SuperSimpleStocks_UnitTests.dll
+C:\Users\Jenny\Documents\Visual Studio 2015\Projects\SuperSimpleStocks_UnitTests\obj\Debug\SuperSimpleStocks_UnitTests.pdb

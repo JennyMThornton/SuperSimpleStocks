@@ -1,0 +1,12 @@
+c:\users\jenny\documents\visual studio 2015\Projects\stockPriceTest\bin\Debug\stockPriceTest.exe.config
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\bin\Debug\stockPriceTest.exe
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\bin\Debug\stockPriceTest.pdb
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\stockPriceTest.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\stockPriceTest.Properties.Resources.resources
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\stockPriceTest.csproj.GenerateResource.Cache
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\stockPriceTest.exe
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\stockPriceTest.pdb
+C:\Users\Jenny\documents\visual studio 2015\Projects\stockPriceTest\obj\Debug\SuperSimpleStocks.formSimpleStocks.resources
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\bin\Debug\stockPriceTest.exe.config
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Debug\stockPriceTest.exe
+C:\Users\Jenny\Documents\visual studio 2015\Projects\stockPriceTest_WithTests\obj\Debug\stockPriceTest.pdb
